@@ -1,0 +1,16 @@
+{
+    "name": "brandcreative/HelloWorld",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Brandcreative\\HelloWorld\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <!-- Override template -->
+    <!-- Override File: module-theme/Block/Html/Header/Logo.php -->
+    <!-- Replaced File: Brandcreative/BlockLogo/BLock/Html/Header/Logo.php -->
+    <!-- <preference for="\Magento\Theme\Block\Html\Header\Logo" type="Brandcreative\BlockLogo\Block\Html\Header\Logo" /> -->
+</config>
